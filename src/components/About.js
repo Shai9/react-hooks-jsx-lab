@@ -8,7 +8,7 @@ function About() {
   <p>I love React ; Learn Once / Write Anywhere</p>
   <img src={image} alt="I made this"/>
   
-  </div>;
+  </div>
 }
 
 export default About;

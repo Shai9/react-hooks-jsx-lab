@@ -1,6 +1,6 @@
 import React from "react";
 import { name, city } from "../data/data.js";
-// import { name, city } from "../data/data";
+
 
 function Home() {
   // update the JSX being returned!

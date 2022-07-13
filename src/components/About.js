@@ -5,7 +5,7 @@ import { image } from "../data/data";
 function About() {
   return <div id="about">
   <h2>About Me</h2>
-  <p>I love React framework since it expedites my work</p>
+  <p>I love React ; Learn Once / Write Anywhere</p>
   <img src={image} alt="I made this"/>
   
   </div>;
